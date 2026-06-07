@@ -284,3 +284,164 @@ Ja, du darfst.
 mögen (like)
 Ich mag Pizza.
 Magst du Musik?
+-----------------------# Modal Verbs
+
+## können (can)
+
+ich kann
+du kannst
+er kann
+
+Example:
+
+Ich kann Deutsch sprechen.
+
+## müssen (must)
+
+ich muss
+du musst
+er muss
+
+Example:
+
+Ich muss arbeiten.
+
+## wollen (want)
+
+ich will
+du willst
+er will
+
+Example:
+
+Ich will Kaffee trinken.
+
+## dürfen (may)
+
+ich darf
+du darfst
+er darf
+
+Example:
+
+Darf ich hereinkommen?
+
+## mögen (like)
+
+ich mag
+du magst
+er mag
+
+Example:
+
+Ich mag Pizza.
+# Daily Conversations
+
+## Greeting
+
+Hallo!
+Guten Morgen!
+Guten Tag!
+Guten Abend!
+
+## Introducing Yourself
+
+Wie heißen Sie?
+Ich heiße Masuma.
+
+Woher kommen Sie?
+Ich komme aus Indien.
+
+Wo wohnen Sie?
+Ich wohne in Westbengalen.
+
+## Shopping
+
+Wie viel kostet das?
+Das kostet 20 Euro.
+
+## Restaurant
+
+Ich möchte einen Kaffee.
+Die Rechnung, bitte.
+
+## Asking Directions
+
+Wo ist der Bahnhof?
+Wie komme ich zum Bahnhof?
+
+## Telephone
+
+Hallo, hier spricht Masuma.
+Kann ich mit Anna sprechen?
+# Goethe A1 Speaking
+
+## Part 1: Self Introduction
+
+Mein Name ist Masuma.
+
+Ich komme aus Indien.
+
+Ich wohne in Westbengalen.
+
+Ich bin Finance Associate.
+
+Ich spreche Englisch, Hindi, Bengali und etwas Deutsch.
+
+Meine Hobbys sind Lesen und Reisen.
+
+---
+
+## Part 2: Asking Questions
+
+Thema: Hobby
+
+Was ist dein Hobby?
+
+Wann spielst du Fußball?
+
+Wo lernst du Deutsch?
+
+---
+
+## Part 3: Making Requests
+
+Kannst du mir helfen?
+
+Kann ich deinen Stift haben?
+
+Bitte sprechen Sie langsam.
+
+Vielen Dank.
+
+Gern geschehen.
+
+---
+
+## Common Speaking Topics
+
+Familie
+Arbeit
+Freizeit
+Urlaub
+Essen
+Wohnung
+Stadt
+Wetter
+Hobby
+
+---
+
+## Useful Sentences
+
+Ich denke, dass...
+
+Meiner Meinung nach...
+
+Ich mag...
+
+Ich möchte...
+
+Ich brauche...
+
+Ich habe eine Frage.
